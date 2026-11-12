@@ -1,6 +1,6 @@
 
 #include <iostream>
-#include "compte_bancaire.h"
+#include "CompteBancaire.h"
 
 int main()
 {
